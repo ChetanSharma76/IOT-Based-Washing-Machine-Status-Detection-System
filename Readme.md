@@ -2,7 +2,7 @@
 # Washing Machine Status System
 
 ## Project Overview  
-This project is a real-time **Washing Machine Status System** that monitors and displays the availability of washing machines. The system uses **WebSockets** to receive live status updates from an **ESP8266-based microcontroller**, which sends data to the backend. The frontend dynamically updates the UI based on the received data.
+This project is a real-time **Washing Machine Status System** that monitors and displays the availability of washing machines. The system uses **WebSockets** to receive live status updates from an **ESP8266-based microcontroller and sensors**, which sends data to the backend. The frontend dynamically updates the UI based on the received data.
 
 ## Tech Stack  
 
