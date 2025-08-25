@@ -27,7 +27,7 @@ Follow these steps to run the project locally.
 
 ### **1. Clone the Repository**  
 ```sh
-git clone https://github.com/Alok2580/Washing-Machine-Status-System.git
+git clone https://github.com/ChetanSharma76/IOT-Based-Washing-Machine-Status-Detection-System
 cd Washing-Machine-Status-System
 ```
 
